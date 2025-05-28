@@ -1,0 +1,1 @@
+ C:\\Users\\lucia\\Documents\\VSCode\\flutter_basic\\toonflix\\.dart_tool\\flutter_build\\c32f2e60396750267732f1977e189385\\native_assets.json: 

@@ -1,0 +1,1 @@
+ C:\\Users\\lucia\\Documents\\VSCode\\flutter_basic\\Flutter\\count\\.dart_tool\\flutter_build\\b8adaec9aef15141fddecd44c1c0128e\\native_assets.json: 
